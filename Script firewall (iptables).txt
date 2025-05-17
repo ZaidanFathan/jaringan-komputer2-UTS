@@ -1,4 +1,4 @@
-# Flush existing rules (opsional, bersihkan dulu)
+# Flush existing rules 
 sudo iptables -F
 
 # Drop semua koneksi ping dari luar subnet
